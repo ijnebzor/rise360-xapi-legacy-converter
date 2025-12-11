@@ -125,9 +125,9 @@ Folders contain .keep files so GitHub preserves directory structure.
 6. The resulting ZIP file is your final TinCan/xAPI package.
    Upload it to your LMS exactly as you would with a normal Rise360 export.
 
-
-
-🧪 What the Converter Fixes
+---
+**🧪 What the Converter Fixes**
+---
 - Missing **tincan.js**
 - Missing **lms.js**
 - Updated Rise player referencing **window.parent** instead of LMSProxy
@@ -135,7 +135,7 @@ Folders contain .keep files so GitHub preserves directory structure.
 - Incorrect launch path in **tincan.xml**
 - Removal of legacy LMSProxySelections routing
 - New file tree (**scormcontent/** + **scormdriver/**) flattened to old style
-- 
+
 The final package behaves as if built in Rise before the breaking change.
 
 ----
