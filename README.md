@@ -141,10 +141,27 @@ The final package behaves as if built in Rise before the breaking change.
 ----
 **✅ Screenshots**
 ----
-COMMAND: <img width="740" height="29" alt="image" src="https://github.com/user-attachments/assets/ea78e906-22d3-4536-81dc-5cd12893ab0c" />
-PROCESS: <img width="613" height="266" alt="image" src="https://github.com/user-attachments/assets/8526271a-10f3-457c-ac48-a97c0e19eac6" />
-DIAGNOSIS: <img width="2000" height="859" alt="image" src="https://github.com/user-attachments/assets/3c8988d1-bc54-40bb-9f85-d69bc98f9264" />
-ONEDRIVE ERROR (see below): <img width="879" height="46" alt="image" src="https://github.com/user-attachments/assets/6a215b2e-ec7e-4c3e-a57c-5c21dd126b6d" />
+COMMAND: <br><br>
+
+<img width="740" height="29" alt="image" src="https://github.com/user-attachments/assets/ea78e906-22d3-4536-81dc-5cd12893ab0c" />
+<br><br>
+
+PROCESS:<br><br>
+
+
+<img width="613" height="266" alt="image" src="https://github.com/user-attachments/assets/8526271a-10f3-457c-ac48-a97c0e19eac6" />
+<br><br>
+
+
+DIAGNOSIS: <br><br>
+
+<img width="2000" height="859" alt="image" src="https://github.com/user-attachments/assets/3c8988d1-bc54-40bb-9f85-d69bc98f9264" />
+<br><br>
+
+ONEDRIVE ERROR (see below): <br><br>
+
+<img width="879" height="46" alt="image" src="https://github.com/user-attachments/assets/6a215b2e-ec7e-4c3e-a57c-5c21dd126b6d" />
+<br><br>
 
 ---
 **⚠️ Known Issues**
